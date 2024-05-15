@@ -1,29 +1,16 @@
-# calculadora-simples
+<h1>Calculadora em Vue.js</h1>
+<h2>Uma calculadora aritimetica simples.</h2>
+<div>
+  <img height="300" width="auto" src="https://github.com/Lxcier/calculadora_vuejs/assets/168615861/45248ff8-94e8-4fe0-a5bd-97977924e882">
+  <img height="300" width="auto" src="https://github.com/Lxcier/calculadora_vuejs/assets/168615861/b99b5617-0063-4d7d-867e-1433144aecde">
+</div>
 
-This template should help get you started developing with Vue 3 in Vite.
+<p>
+  Exercicio proposto para a conclusão do módulo 27 sobre Vue.js.<br> Consiste em uma calculadora simples que exibe o resultado das operação sem a necessidade de clicar em algum botão.
+</p>
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+<ul>
+  <li>
+    <a href="">Testar na vercel 🚀</a>
+  </li>
+</ul>
