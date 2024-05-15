@@ -1,0 +1,4 @@
+body #app {
+    background: linear-gradient( #232A38 0%,#1C202B 100%);
+    height: 100vh;
+}
