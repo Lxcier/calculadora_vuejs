@@ -11,6 +11,6 @@
 
 <ul>
   <li>
-    <a href="https://calculadora-vuejs-three.vercel.app/">Testar na vercel 🚀</a>
+    <a target="_blank" href="https://calculadora-vuejs-three.vercel.app/">Testar na vercel 🚀</a>
   </li>
 </ul>
